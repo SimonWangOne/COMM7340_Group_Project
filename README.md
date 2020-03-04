@@ -1,4 +1,4 @@
-# COMM7340-Group_Project
+# COMM7340_Group_Project
 This repository contains code for COMM7340 AI for Digital Media  group projects.
 
 ### Group member:<br/>           
