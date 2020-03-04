@@ -2,7 +2,7 @@
 This repository contains code for COMM7340 AI for Digital Media group projects.
 
 ### Project Information
-In this project, we use python, XPath, and Gephi to analysis citation network among Marvel movies. The original data has been crawled from IMDB(http://www.imdb.com). Including reference and referenced between Marvel movies, and reference between Marvel and other movies.
+In this project, we use Python (Data Ananlysis), XPath (Information Crawl), and Gephi (Network Analysis) to conduct network analysis among Marvel movies. The original data has been crawled from IMDB(http://www.imdb.com). Including reference and referenced between Marvel movies, and reference between Marvel and other movies.
 
 ### Group member:<br/>           
 WANG Yaodong (19451431@life.hkbu.edu.hk)<br/>
