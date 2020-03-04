@@ -1,5 +1,5 @@
 # COMM7340_Group_Project
-This repository contains code for COMM7340 AI for Digital Media  group projects.
+This repository contains code  for COMM7340 AI for Digital Media  group projects.
 
 ### Group member:<br/>           
 WANG Yaodong (19451431@life.hkbu.edu.hk)<br/>
