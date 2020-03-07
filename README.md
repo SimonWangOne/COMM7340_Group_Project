@@ -14,7 +14,7 @@ HU Zhegang (19450168@life.hkbu.edu.hk)<br/>
 ### Instructor：
 Dr. ZHANG Xinzhi
 
-##参考文献
+### 参考文献
 
 Andreas Spitz, & Emőke-Ágnes Horvát. (2014). Measuring long-term impact based on network centrality: Unraveling cinematic citations. PLoS ONE, 9(10), E108857.
 
