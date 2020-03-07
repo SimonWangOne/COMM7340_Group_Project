@@ -16,7 +16,7 @@ Dr. ZHANG Xinzhi
 
 ### 参考文献
 
-&emsp&emspAndreas Spitz, & Emőke-Ágnes Horvát. (2014). Measuring long-term impact based on network centrality: Unraveling cinematic citations. PLoS ONE, 9(10), E108857.
+Andreas Spitz, & Emőke-Ágnes Horvát. (2014). Measuring long-term impact based on network centrality: Unraveling cinematic citations. PLoS ONE, 9(10), E108857.
 
 MATT GOLDBERG. (2019). Marvel Studios at the Box Office: How Much Has Each Film Made?. https://collider.com/marvel-movies-box-office/#iron-man.
 
